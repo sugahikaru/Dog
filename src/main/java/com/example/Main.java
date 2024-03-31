@@ -15,7 +15,7 @@ public class Main {
         dogList.add(dog2);
 
         dog1.setName("koko");
-        
+
 
         System.out.println(dog1.getName());
     }
